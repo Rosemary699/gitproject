@@ -16,4 +16,6 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 https://github.com/Rosemary699/gitproject.git
 
+changes from my pc before getting github change
+
 

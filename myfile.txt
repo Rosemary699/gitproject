@@ -1,23 +1,27 @@
-﻿**************Git Intriduction****************
+This is my first line in my git tracked file.
+Second line.
+
 
 …or create a new repository on the command line
+echo "# gitproject" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/Rosemary699/gitproject.git
+git remote add origin https://github.com/Justinpy8/gitproject.git
 git push -u origin master
                 
 …or push an existing repository from the command line
-git remote add origin https://github.com/Rosemary699/gitproject.git
+git remote add origin https://github.com/Justinpy8/gitproject.git
 git push -u origin master
 
-…or import code from another repository
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
-https://github.com/Rosemary699/gitproject.git
+Update for Colabboration:
 
-changes from github
+ - git push
+ - git set upstream origin master
 
-changes from github on Aug 24
+Changes from GitHub
 
-update
+Testing conflict\merger
+
+testing conflicts\merger #2
